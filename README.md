@@ -1,4 +1,4 @@
-# Simple testing sample in C
+# Simple testing example in C
 
 This is a simple sample written in C using [Check Framework](https://libcheck.github.io/check). This sample focus on testing some basic properties of an array structure.
 
